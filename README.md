@@ -43,7 +43,7 @@ the number of times that the \(\eta_{\text{Mean}}^{\text{method}}\) in (29) give
 The results for Example 5 are summarized in **Table 5**, showing  
 \( N_{\text{OSDR1}}, N_{\text{RSSEP1}}, N_{\text{OSDR2}}, N_{\text{RSSEP2}}, N_{\text{CQR}}, \) and \( N_{\text{QZ}} \) versus the problem size \( n \):
 
-| Problem size (n) | N<sub>OSDR1</sub> | N<sub>RSSEP1</sub> | N<sub>OSDR2</sub> | N<sub>RSSEP2</sub> | N<sub>CQR</sub> | N<sub>QZ</sub> |
+| Problem size (n) | N<sup>OSDR1</sup> | N<sup>RSSEP1</sup> | N<sup>OSDR2</sup> | N<sup>RSSEP2</sup> | N<sup>CQR</sup> | N<sup>QZ</sup> |
 |------------------:|:-----------------:|:------------------:|:-----------------:|:------------------:|:----------------:|:---------------:|
 | 50  | 12 | 8  | 5  | 9  | 5 | 25 |
 | 100 | 11 | 10 | 14 | 14 | 7 | 8  |
