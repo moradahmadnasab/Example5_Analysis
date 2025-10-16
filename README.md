@@ -67,6 +67,7 @@ When **n** changes from 50 to 300:
 
 The following chart visualizes the behavior and stability of the new methods described above:
 
+
 ![OSDR Methods Chart](figures/osdr_methods_chart.png)
 
 ## 📂 Code and Visualization
