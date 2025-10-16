@@ -38,6 +38,22 @@ Then, we compute:
 For each group of problems with a specific size **n** and a range of condition numbers from about **1e+1** to about **1e+15** (for **A**s and **B**s),  
 the number of times that the \(\eta_{\text{Mean}}^{\text{method}}\) in (29) gives \(\eta_{\text{Mean}}^{\text{Min}}\) is denoted by **N<sub>method</sub>**.
 
+## Table 5 — Results Summary
+
+The results for Example 5 are summarized in **Table 5**, showing  
+\( N_{\text{OSDR1}}, N_{\text{RSSEP1}}, N_{\text{OSDR2}}, N_{\text{RSSEP2}}, N_{\text{CQR}}, \) and \( N_{\text{QZ}} \) versus the problem size \( n \):
+
+| Problem size (n) | N<sub>OSDR1</sub> | N<sub>RSSEP1</sub> | N<sub>OSDR2</sub> | N<sub>RSSEP2</sub> | N<sub>CQR</sub> | N<sub>QZ</sub> |
+|------------------:|:-----------------:|:------------------:|:-----------------:|:------------------:|:----------------:|:---------------:|
+| 50  | 12 | 8  | 5  | 9  | 5 | 25 |
+| 100 | 11 | 10 | 14 | 14 | 7 | 8  |
+| 150 | 16 | 10 | 17 | 11 | 8 | 2  |
+| 200 | 12 | 14 | 13 | 17 | 8 | 0  |
+| 250 | 10 | 11 | 18 | 17 | 8 | 0  |
+| 300 | 13 | 10 | 18 | 15 | 8 | 0  |
+
+---
+
 **Table 5** reports on \( N_{\text{OSDR1}}, N_{\text{RSSEP1}}, N_{\text{OSDR2}}, N_{\text{RSSEP2}}, N_{\text{CQR}}, N_{\text{QZ}} \) versus **n**.
 
 When **n** changes from 50 to 300:
