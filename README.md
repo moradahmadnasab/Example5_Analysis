@@ -1,10 +1,10 @@
 # Analysis and visualization of Example 5 from Symmetric-diagonal reductions paper using pandas and seaborn.
 
-In this repository, we analyze one table produced in one of my research papers:
-
+In this repository, we use Python’s pandas and seaborn libraries to analyze and visualize a dataset from my following research papers:
 > **M. Ahmadnasab**,  
 > *Symmetric-diagonal reductions as preprocessing for symmetric positive definite generalized eigenvalue solvers*,  
 > *Journal of Mathematical Modeling*, Vol. 11, 2023, pp. 301–322.
+
 
 ---
 
