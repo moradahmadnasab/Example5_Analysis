@@ -115,4 +115,20 @@ The following chart visualizes the behavior, stability, and robustness of the ne
 The code used to reproduce, analyze and visualize the  **Example 5**. 
 
 
+### Analysis of Best Performances
+
+Each number in the dataset represents how many times (out of 64 runs)
+a given method achieved the minimum backward error for a given problem size.
+
+#### Global Distribution
+The following bar chart shows the **overall share of best performances** across all problem sizes.  
+It summarizes which methods performed best most frequently over the entire set of problem instances.
+
+![Global Best Percentages](figures/global_best_percentages.png)
+
+#### Distribution per Problem Size
+The stacked bar chart below shows the **percentage of best performances for each method within each problem size**.  
+This allows a detailed view of which methods dominate at specific problem sizes.
+
+![Best Percent per Size](figures/best_percent_per_size.png)
 
