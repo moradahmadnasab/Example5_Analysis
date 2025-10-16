@@ -126,9 +126,43 @@ It summarizes which methods performed best most frequently over the entire set o
 
 ![Global Best Percentages](figures/global_best_percentages.png)
 
+=== Global percentage of best performances ===
+$N^{OSDR1}$     19.27
+$N^{RSSEP1}$    16.41
+$N^{OSDR2}$     22.14
+$N^{RSSEP2}$    21.61
+$N^{CQR}$       11.46
+$N^{QZ}$         9.11
+dtype: float64
+
 #### Distribution per Problem Size
 The stacked bar chart below shows the **percentage of best performances for each method within each problem size**.  
 This allows a detailed view of which methods dominate at specific problem sizes.
 
 ![Best Percent per Size](figures/best_percent_per_size.png)
+
+=== Per problem size percentages ===
+  Problem size  $N^{OSDR1}$  $N^{RSSEP1}$  $N^{OSDR2}$  $N^{RSSEP2}$  \
+0           50        18.75         12.50         7.81         14.06   
+1          100        17.19         15.62        21.88         21.88   
+2          150        25.00         15.62        26.56         17.19   
+3          200        18.75         21.88        20.31         26.56   
+4          250        15.62         17.19        28.12         26.56   
+5          300        20.31         15.62        28.12         23.44   
+
+   $N^{CQR}$  $N^{QZ}$  
+0       7.81     39.06  
+1      10.94     12.50  
+2      12.50      3.12  
+3      12.50      0.00  
+4      12.50      0.00  
+5      12.50      0.00  
+
+   $N^{CQR}$  $N^{QZ}$  
+0       7.81     39.06  
+1      10.94     12.50  
+2      12.50      3.12  
+3      12.50      0.00  
+4      12.50      0.00  
+5      12.50      0.00  
 
