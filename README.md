@@ -158,11 +158,4 @@ This allows a detailed view of which methods dominate at specific problem sizes.
 4      12.50      0.00  
 5      12.50      0.00  
 
-   $N^{CQR}$  $N^{QZ}$  
-0       7.81     39.06  
-1      10.94     12.50  
-2      12.50      3.12  
-3      12.50      0.00  
-4      12.50      0.00  
-5      12.50      0.00  
-
+  
