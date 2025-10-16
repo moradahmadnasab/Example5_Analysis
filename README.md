@@ -54,18 +54,13 @@ The results for Example 5 are summarized in **Table 5**, showing
 
 ---
 
-**Table 5** reports on \( N_{\text{OSDR1}}, N_{\text{RSSEP1}}, N_{\text{OSDR2}}, N_{\text{RSSEP2}}, N_{\text{CQR}}, N_{\text{QZ}} \) versus **n**.
+**Table 5** reports on \( N^{\text{OSDR1}}, N^{\text{RSSEP1}}, N^{\text{OSDR2}}, N^{\text{RSSEP2}}, N^{\text{CQR}}, N^{\text{QZ}} \) versus **n**.
 
 When **n** changes from 50 to 300:
-- \( N_{\text{CQR}} \) does not experience a meaningful change,
-- \( N_{\text{QZ}} \) decreases from 25 to 0,
-- \( N_{\text{OSDR1}} \) and \( N_{\text{RSSEP1}} \) (resp. \( N_{\text{OSDR2}} \) and \( N_{\text{RSSEP2}} \)) show competitive behaviors.
+- \( N^{\text{CQR}} \) does not experience a meaningful change,
+- \( N^{\text{QZ}} \) decreases from 25 to 0,
+- \( N^{\text{OSDR1}} \) and \( N^{\text{RSSEP1}} \) (resp. \( N^{\text{OSDR2}} \) and \( N^{\text{RSSEP2}} \)) show competitive behaviors.
 
 ---
 
-### Formula (28)
 
-#In MATLAB notation:
-
-#```matlab
-#gallery('randsvd', n, -1e^k, MODE)
