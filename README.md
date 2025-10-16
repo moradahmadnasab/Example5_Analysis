@@ -63,4 +63,9 @@ When **n** changes from 50 to 300:
 
 ---
 
+## 📂 Code and Visualization
+
+All code used to reproduce the analysis and visualization for **Example 5** is provided in the folder:mycode/
+
+
 
