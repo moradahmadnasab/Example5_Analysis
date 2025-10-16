@@ -159,21 +159,4 @@ This allows a detailed view of which methods dominate at specific problem sizes.
 
 
 
-=== Per problem size percentages ===
-  Problem size  $N^{OSDR1}$  $N^{RSSEP1}$  $N^{OSDR2}$  $N^{RSSEP2}$  \
-0           50        18.75         12.50         7.81         14.06   
-1          100        17.19         15.62        21.88         21.88   
-2          150        25.00         15.62        26.56         17.19   
-3          200        18.75         21.88        20.31         26.56   
-4          250        15.62         17.19        28.12         26.56   
-5          300        20.31         15.62        28.12         23.44   
-
-   $N^{CQR}$  $N^{QZ}$  
-0       7.81     39.06  
-1      10.94     12.50  
-2      12.50      3.12  
-3      12.50      0.00  
-4      12.50      0.00  
-5      12.50      0.00  
-
   
