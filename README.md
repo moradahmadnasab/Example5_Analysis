@@ -17,7 +17,7 @@ by a MATLAB formula (function) which generate random SPD matrices with almost in
 
 gallery('randsvd', n, -1e^k, MODE)
 
-when **MODE = 3**.  
+Here MODE = 3.  
 The condition numbers of the matrices range from about **1e+1** to about **1e+15**.
 
 We solve each problem with fixed **A** and **B** (each one of the 64 problems) by the following six methods:
