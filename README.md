@@ -109,7 +109,7 @@ When **n** changes from 50 to 300:
 The following chart visualizes the behavior, stability, and robustness of the new methods described above, in comparison with the Cholesky-QR and QZ methods:
 
 <p align="center">
-  <img src="figures/osdr_methods_chart2.png" alt="OSDR Methods Chart" width="500"/>
+  <img src="figures/osdr_methods_chart2.png" alt="OSDR Methods Chart" width="600"/>
 </p>
 
 
