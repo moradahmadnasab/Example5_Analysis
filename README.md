@@ -129,7 +129,11 @@ a given method achieved the minimum backward error for a given problem size.
 The following bar chart shows the **overall share of best performances** across all problem sizes.  
 It summarizes which methods performed best most frequently over the entire set of problem instances.
 
-![Global Best Percentages](figures/global_best_percentages.png)
+<p align="center">
+  <img src="figures/global_best_percentages.png" alt="Global Best Percentages" width="600"/>
+</p>
+
+<!-- ![Global Best Percentages](figures/global_best_percentages.png) -->
 
 
 ### Global Percentage of Best Performances
@@ -149,7 +153,11 @@ It summarizes which methods performed best most frequently over the entire set o
 The stacked bar chart below shows the **percentage of best performances for each method within each problem size**.  
 This allows a detailed view of which methods dominate at specific problem sizes.
 
-![Best Percent per Size](figures/best_percent_per_size.png)
+<p align="center">
+  <img src="figures/best_percent_per_size.png" alt="Best Percent per Size" width="600"/>
+</p>
+
+<!-- ![Best Percent per Size](figures/best_percent_per_size.png) -->
 
 ### Best Performances per Problem Size (%)
 
