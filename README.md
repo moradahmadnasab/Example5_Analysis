@@ -113,7 +113,7 @@ The following chart visualizes the behavior, stability, and robustness of the ne
 </p>
 
 <!-- Figure below temporarily disabled -->
-![OSDR Methods Chart](figures/osdr_methods_chart2.png)
+<!-- ![OSDR Methods Chart](figures/osdr_methods_chart2.png) -->
 
 ## 📂 Code and Visualization
 
