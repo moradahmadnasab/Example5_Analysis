@@ -1,4 +1,4 @@
-# Analysis and visualization of Example 5 from Symmetric-diagonal reductions paper using pandas and seaborn.
+# Analysis and visualization of data from Example 5 of the Symmetric-Diagonal Reductions research paper using pandas and seaborn.
 
 In this repository, we use Python’s pandas and seaborn libraries to analyze and visualize a dataset from my following research papers:
 > **M. Ahmadnasab**,  
